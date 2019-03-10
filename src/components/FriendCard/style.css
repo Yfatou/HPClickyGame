@@ -1,0 +1,25 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  position: relative;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  width: 200px;
+  height: 150px;
+  margin: 15px 45px;
+  border: 3px solid white;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.card > .img-container > img {
+  width: 100%; 
+}
+
+body {
+  background-image: url("/ClickyGame/client/public/images/HP.jpg");
+  background-size: cover;
+}

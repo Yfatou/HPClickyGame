@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "./images/harryPotter14.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 2,
+    "image": "./images/harryPotter2.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 3,
+    "image": "./images/harryPotter15.png",
+    "clicked": "false"
+  },
+  {
+    "id": 4,
+    "image": "./images/harryPotter4.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 5,
+    "image": "./images/harryPotter5.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 6,
+    "image": "./images/harryPotter6.png",
+    "clicked": "false"
+  },
+  {
+    "id": 7,
+    "image": "./images/harryPotter7.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 8,
+    "image": "./images/harryPotter8.jpeg",
+    "clicked": "false"
+  },
+  {
+    "id": 9,
+    "image": "./images/harryPotter9.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 10,
+    "image": "./images/harryPotter10.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 11,
+    "image": "./images/harryPotter11.jpg",
+    "clicked": "false"
+  },
+  {
+    "id": 12,
+    "image": "./images/harryPotter1.jpeg",
+    "clicked": "false"
+  }
+]

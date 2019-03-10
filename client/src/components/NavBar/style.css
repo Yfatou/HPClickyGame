@@ -1,0 +1,47 @@
+li {
+    color: black;
+    /* padding: 15px 0; */
+    /* display:inline-block; */
+    /* display: block; */
+}
+
+ul {
+    width: 100%;
+}
+
+body {
+    font-size: 24px;
+}
+
+.navbar {
+    background: rgb(53, 52, 52);
+    padding: 0;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.navbar li {
+    display: inline-block;
+}
+  
+nav{
+      width: auto;
+}
+
+.title {
+    width: auto;
+    color: whitesmoke;
+    font-size: 30px;
+    padding-right: 15%;
+}
+  
+.message{
+    width: auto;
+    color: wheat;
+}
+  
+.scores {
+    width: auto;
+    color: darkred;
+    font-style: bold;
+    padding-left: 10%;
+}
